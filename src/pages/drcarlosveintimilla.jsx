@@ -227,7 +227,7 @@ export default function testpage() {
         <Row>
           <Col className={styles.qrCode}>
             <section id="qrCode">
-              <QRCodeComponent qrCodeImageUrl="/images/qrcode_1.png" altText="QR Code" />
+              <QRCodeComponent qrCodeImageUrl="/images/qrcode-cv.png" altText="QR Code" />
             </section>
           </Col>
         </Row>
